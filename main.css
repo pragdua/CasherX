@@ -1,0 +1,74 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1, .description{
+
+    text-align: center;
+
+}
+
+.container {
+    display:flex;
+    flex-direction:column;
+    width: 50vw; 
+    margin: 0 auto;
+}
+
+input {
+
+    padding: 1rem;
+    background-color:azure;
+    border-style: none;
+
+}
+
+button {
+
+    padding: 0.5rem;
+    border-style: none;
+}
+
+label {
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+
+
+}
+
+.change-table{
+
+    margin-top: 30px;
+
+
+}
+
+tr {
+
+    background-color: azure;
+
+}
+
+th {
+
+    padding: .5rem;;
+}
+
+td {
+
+    padding:.5rem;
+
+}
+
+
+caption {
+
+    margin-bottom: 10px;
+
+
+}
+
